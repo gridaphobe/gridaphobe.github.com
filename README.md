@@ -1,10 +1,12 @@
-twitter.github.com
+gridaphobe.github.com
 ======
 
-The source code of http://twitter.github.com/
+The source code of http://gridaphobe.github.com/
 
 LICENSE
 ------------
+
+Modified by Eric Seidel.
 
 Copyright 2012 Twitter, Inc.
 
